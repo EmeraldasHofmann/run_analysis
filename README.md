@@ -20,9 +20,10 @@ required data set\!
 download the `run_analysis.R` in your work directory.  
 open R (or RStudio):  
 
-`> source("./run_analysis.R")
- > run_analysis()`
- --> output:  `./data/tidy_dataset.txt`
+`> source("./run_analysis.R")`  
+`> run_analysis()`  
+   
+ >> output:  `./data/tidy_dataset.txt`
  
 ### How run\_analysis.R works
 The *Run\_analysis.R*, after check on the existence of *“./data”*
