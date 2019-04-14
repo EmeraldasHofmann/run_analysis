@@ -162,8 +162,8 @@ fBodyGyroJerkMag
 The set of variables that were estimated from these signals are: 
 
 
-         Function | description  
---------------------------------------------------------------------------------
+ Function | description    
+----------|------------   
  `mean()`         | Mean value  
  `std() `         | Standard deviation  
  `mad()`          | Median absolute deviation   
