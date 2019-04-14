@@ -16,7 +16,13 @@ Each variables in this new dataset has a descriptive variable names.
 (see [CodeBook.md](CodeBook.md)). You can run R code *run\_analysis.R* or source it. It
 will generate a text file named “tidy\_dataset.txt”. This is the
 required data set\!
-
+### Use run_analysis.R
+download the `run_analysis.R` in your work directory.
+open R (or RStudio):
+`> source("./run_analysis.R")
+ > run_analysis()`
+ --> output:  `./data/tidy_dataset.txt`
+ 
 ### How run\_analysis.R works
 The *Run\_analysis.R*, after check on the existence of *“./data”*
 directory, download the data
