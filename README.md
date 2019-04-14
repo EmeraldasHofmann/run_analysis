@@ -13,7 +13,7 @@ average of each variable for each activity and each subject from the
 (original data set).
 
 Each variables in this new dataset has a descriptive variable names.
-(see CodeBook.md). You can run R code *run\_analysis.R* or source it. It
+(see [CodeBook.md](CodeBook.md)). You can run R code *run\_analysis.R* or source it. It
 will generate a text file named “tidy\_dataset.txt”. This is the
 required data set\!
 
