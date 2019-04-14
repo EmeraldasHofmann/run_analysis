@@ -81,7 +81,7 @@ For more information about this dataset contact:
 Use of this dataset in publications must be acknowledged by referencing
 the following [publication][1]
 
-[1]: $[1]$  Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and
+[1]:  Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and
 Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a
 Multiclass Hardware-Friendly Support Vector Machine. International
 Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz,
@@ -96,9 +96,9 @@ November 2012.
 
 ### Script run\_analysis.R transformation
 
-Script joins both test and training data toghether with their proper
+Script joins both test and train data together with their proper
 labels, subject IDs and activity titles. Then only measurements on the
-mean and standart deviation are extracted. From that data script creates
+mean and standard deviation are extracted. From that data script creates
 new table grouped by subject ID and activity name and mean value for
 each measurement.
 
