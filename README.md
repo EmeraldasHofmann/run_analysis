@@ -47,7 +47,7 @@ pattern in R. This is an extremely common pattern in data analysis : `install.pa
   * **DPLYR** : dplyr provides a flexible grammar of data manipulation. It’s the next iteration of plyr, focused on tools for working with data frames (hence the d in the name): `install.package("plyr")`
 
 ### References
-$[1]$ Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and
 Jorge L. Reyes-Ortiz. **_Human Activity Recognition on Smartphones using a
 Multiclass Hardware-Friendly Support Vector Machine_**. International
 Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz,
