@@ -18,7 +18,8 @@ will generate a text file named “tidy\_dataset.txt”. This is the
 required data set\!
 ### Use run_analysis.R
 download the `run_analysis.R` in your work directory.  
-open R (or RStudio):
+open R (or RStudio):  
+
 `> source("./run_analysis.R")
  > run_analysis()`
  --> output:  `./data/tidy_dataset.txt`
